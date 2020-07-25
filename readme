@@ -1,0 +1,7 @@
+
+Please restore SQL DB
+Files in https://github.com/candidaalphonso/TestApplication/tree/master/sqldbtorestore
+
+
+Technologies:  .NET core
+Methods implemented :Registering user, User login/authentication with JWT generation and validation of token
