@@ -4,4 +4,6 @@ Files in https://github.com/candidaalphonso/TestApplication/tree/master/sqldbtor
 
 
 Technologies:  .NET core
+Platform : Visual Studio 2019
+Language: c#.NET with MVC
 Methods implemented :Registering user, User login/authentication with JWT generation and validation of token
